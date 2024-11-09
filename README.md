@@ -1,4 +1,4 @@
-# Setmana de la ciència: el meu primer model predictiu <img src="images/logo_soce.png" align="right" alt="" width="150" />
+# Setmana de la ciència: el meu primer model predictiu <img src="images/logo_soce.png" align="right" alt="" width="250" />
 
 Aquest és un repositori públic a l'abast de tots els assistents a l'activitat per a la divulgació estadística organitzada per la Societat Catalana d'Estadística (SOCE) a la Setmana de la Ciència, i de qualsevol persona que pugui estar interessada. En aquest repositori trobareu:
 
